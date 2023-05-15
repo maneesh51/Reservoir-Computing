@@ -11,5 +11,5 @@
 
 ## 1. An autonomous RC 
 <p align="center">
-<img src="https://github.com/maneesh51/Reservoir-Computing/blob/main/2.RC_Auto_IO.png" width="700" height="165">
+<img src="https://github.com/maneesh51/Reservoir-Computing/blob/main/2.RC_Auto_IO.png" width="700" height="200">
 </p>
