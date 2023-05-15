@@ -1,6 +1,6 @@
 # Reservoir-Computing 
 
-### This repository contains a simple implementation of different architectures of reservoir computers (RC) or Echo-Satae-Machines (ESM) from scratch.
+### This repository contains a simple implementation of different architectures of reservoir computers (RC) or Echo-State-Machines (ESM) from scratch.
 
 ## 1. A non-autonomous RC 
 <p align="center">
